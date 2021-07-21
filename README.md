@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andresgtn
+- 👋 Hi, I’m Andres
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning coding and deep learning
 - 💞️ I’m looking to collaborate on real estate data science projects
