@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andresgtn
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning coding and deep learning
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on real estate data science projects
 - 📫 How to reach me andres_gtn [at] hotmail.com
 
 <!---
