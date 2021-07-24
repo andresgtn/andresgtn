@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Andres
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning coding and deep learning
-- 💞️ I’m looking to collaborate on real estate data science projects
-- 📫 How to reach me andres_gtn [at] hotmail.com
+
 
 <!---
 andresgtn/andresgtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
